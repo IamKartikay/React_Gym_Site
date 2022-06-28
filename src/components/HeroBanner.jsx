@@ -8,7 +8,7 @@ const HeroBanner = () => {
       position='relative' p='20px'
       >
       <Typography color='#FF2625' fontSize='26px' fontWeight='600'>
-         kartikay
+         kuch
       </Typography>
       <Typography color='black' fontWeight={600} lineHeight = '50px'
         sx={{fontSize: {lg: '44px', xs:'40px  '}}}  
